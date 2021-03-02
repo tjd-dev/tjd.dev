@@ -1,12 +1,12 @@
 body {font-family: Montserrat, Helvetica Neue, sans-serif; margin: 0 auto; line-height: 2em; padding: 12px; box-sizing: border-box; color: #333; overflow: auto;
-background: #d9bc92; /* Old browsers */
-background: -moz-linear-gradient(-45deg,  #d9bc92 0%, #d9bc92 50%, #7d8477 50%, #7d8477 100%); /* FF3.6+ */
-background: -webkit-gradient(linear, left top, right bottom, color-stop(0%,#d9bc92), color-stop(50%, #ffded1), color-stop(50%, #7d8477), color-stop(100%, #7d8477)); /* Chrome,Safari4+ */
-background: -webkit-linear-gradient(-45deg,  #d9bc92 0%, #d9bc92 50%,#7d8477 50%,#7d8477 100%); /* Chrome10+,Safari5.1+ */
-background: -o-linear-gradient(-45deg,  #d9bc92 0%,#d9bc92 50%,#7d8477 50%,#7d8477 100%); /* Opera 11.10+ */
-background: -ms-linear-gradient(-45deg,  #d9bc92 0%, #d9bc92 50%,#7d8477 50%,#7d8477 100%); /* IE10+ */
-background: linear-gradient(135deg, #d9bc92 0%,#d9bc92 50%,#7d8477 50%,#7d8477 100%); /* W3C */
-filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#d9bc92', endColorstr='#7d8477',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
+background: #B3CD9A; /* Old browsers */
+background: -moz-linear-gradient(-45deg, #B3CD9A 0%, #B3CD9A 50%, #5D845E 50%, #5D845E 100%); /* FF3.6+ */
+background: -webkit-gradient(linear, left top, right bottom, color-stop(0%,#B3CD9A), color-stop(50%, #B3CD9A), color-stop(50%, #5D845E), color-stop(100%, #5D845E)); /* Chrome,Safari4+ */
+background: -webkit-linear-gradient(-45deg,  #B3CD9A 0%, #B3CD9A 50%, #5D845E 50%,#5D845E 100%); /* Chrome10+,Safari5.1+ */
+background: -o-linear-gradient(-45deg,  #B3CD9A 0%, #B3CD9A 50%, #5D845E 50%,#5D845E 100%); /* Opera 11.10+ */
+background: -ms-linear-gradient(-45deg,  #B3CD9A 0%, #B3CD9A 50%,#5D845E 50%,#5D845E 100%); /* IE10+ */
+background: linear-gradient(135deg, #B3CD9A 0%,#B3CD9A 50%,#5D845E 50%,#5D845E 100%); /* W3C */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#B3CD9A', endColorstr='#5D845E',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
 
 }
 
