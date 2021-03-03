@@ -1,4 +1,4 @@
-body {font-family: Montserrat, Helvetica Neue, sans-serif; margin: 0 auto; line-height: 2em; padding: 12px; box-sizing: border-box; color: #a5a5a5; overflow: auto;
+body {font-family: Montserrat, Helvetica Neue, sans-serif; margin: 0 auto; line-height: 2em; padding: 12px; box-sizing: border-box; color: #a5a5a5; overflow: auto; font-display: swap;
 background: #485646; /* Old browsers */
 background: -moz-linear-gradient(-45deg, #485646 0%, #485646 50%, #27444D 50%, #27444D 100%); /* FF3.6+ */
 background: -webkit-gradient(linear, left top, right bottom, color-stop(0%,#485646), color-stop(50%, #485646), color-stop(50%, #27444D), color-stop(100%, #27444D)); /* Chrome,Safari4+ */
@@ -7,7 +7,6 @@ background: -o-linear-gradient(-45deg,  #485646 0%, #485646 50%, #27444D 50%,#27
 background: -ms-linear-gradient(-45deg,  #485646 0%, #485646 50%,#27444D 50%,#27444D 100%); /* IE10+ */
 background: linear-gradient(135deg, #485646 0%,#485646 50%,#27444D 50%,#27444D 100%); /* W3C */
 filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#485646', endColorstr='#27444D',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
-
 }
 
 body, html {height: 100%;}
